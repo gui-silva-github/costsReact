@@ -1,0 +1,25 @@
+.height{
+    height: fit-content;
+}
+
+.project_container{
+    padding: 2em;
+}
+
+.title_container{
+    margin: 1em auto 3em auto;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.home_container{
+    margin-top: -85px;
+    text-align: center;
+}
+
+.home_container img{
+    width: 150px;
+    margin: 0 0 1rem 22rem;
+}
