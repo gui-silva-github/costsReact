@@ -92,24 +92,23 @@ Isso deve ser feito em <strong>2 terminais diferentes</strong>.<hr>
 
 # Como usar?
 
-<h3>1 - Baixar o arquivo .zip desse projeto <br>ou<br> 1 - Clonar este repositório com <code>git clone https://github.com/gui-silva-github/costsReact.git</code> na pasta selecionada do seu computador (OBS: para dar o git clone você precisa ter o git instalado).</h3>
-
-Git: [https://git-scm.com/] 
-
-<h3>2 - Entrar (<strong>depois de extrair</strong> no caso do .zip), na pasta desse projeto.</h3>
-
-<h3>3.1 - Executar no terminal <code>npm install</code> para requerir as dependências do projeto. <br> 3.2 - Inicializar o projeto com <code>npm run start</code> no terminal. <br> 3.3 - Inicializar o banco de dados com <code>npm run backend</code> em outro terminal.</h3>
-
-<h3>4 - Entrar no link sugerido pelo <code>npm run start</code></h3>
-
-<h3>5 - Usar o 'Costs'!</h3>
+<ol>
+  <li>Baixar o arquivo .zip desse projeto <br>ou<br>Clonar este repositório com <code>git clone https://github.com/gui-silva-github/costsReact.git</code> na pasta selecionada do seu computador (OBS: para dar o git clone você precisa ter o git instalado).</li><br>
+  Git: [https://git-scm.com/] 
+  <br><br>
+  <li>Entrar (<strong>depois de extrair</strong> no caso do .zip), na pasta desse projeto.</li><br>
+  <li>Executar no terminal <code>npm install</code> para requerir as dependências do projeto. Inicializar o projeto com <code>npm run start</code> no terminal. <br> Inicializar o banco de dados com <code>npm run backend</code> em outro terminal.</li><br>
+  <li>Entrar no link sugerido pelo <code>npm run start</code></li><br>
+  <li>5 - Usar o 'Costs'!</li>
+</ol>
 <hr>
 
 # Observação
 
-<h3>No intuito do Costs atender todos os sistemas de números dos países, por exemplo Brasil e Estados Unidos, não se utiliza o '.' ou a ',' colocando o número sem essa separação, ficando ao invés de '3.000 ou 3,000' para '3000'.</h3>
+No intuito do Costs atender todos os sistemas de números dos países, por exemplo Brasil e Estados Unidos, não se utiliza o '.' ou a ',' colocando o número sem essa separação, ficando ao invés de '3.000 ou 3,000' para '3000'.
 
-<h3>No orçamento não é possível adicionar números decimais, haja vista a explicação acima.</h3>
+No orçamento não é possível adicionar números decimais, haja vista a explicação acima.
+<hr>
 
 # Tecnologias
 
